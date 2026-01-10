@@ -8,6 +8,7 @@
 祝愿车赛越办越好 大家都能取得理想的成绩！  
 [决赛视频](https://www.bilibili.com/video/BV1rqegzqEai/?spm_id_from=333.1387.homepage.video_card.click)  
 开源交流QQ群431268082  
+作者个人BLOG(内含开源教程) http://www.hcc1203.top/
 
 ## 使用教程
 ```C
